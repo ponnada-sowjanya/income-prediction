@@ -1,8 +1,25 @@
 **📊 Income Prediction Using Machine Learning**
 
-This project builds and evaluates machine learning models to predict whether an individual's income exceeds $50K per year using demographic and socioeconomic attributes.
+**🎓 Internship Project – Edunet Foundation (IBM SkillsBuild Collaboration)**
+- This project was developed as part of a 6-week internship program conducted by Edunet Foundation in collaboration with IBM SkillsBuild.
 
-The implementation was developed and executed using Google Colab.
+- The objective was to apply machine learning techniques to real-world census data and build a classification model to predict whether an individual's income exceeds $50K per year.
+
+- The complete implementation is provided in:
+- Income_Prediction_Using_ML.ipynb
+
+Developed using Google Colab.
+🏢 Internship Details
+
+- Duration: 6 Weeks
+
+- Organization: Edunet Foundation
+
+- Industry Partner: IBM SkillsBuild
+
+- Role: AI & ML Intern
+
+-Project Type: Supervised Classification (Income Prediction)
 
 **🧠 Project Objective**
 
